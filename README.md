@@ -1,4 +1,7 @@
-## Hi there 👋 My Name is Mohammed Naser. Welcome.
+## Hi there 👋 
+My Name is Mohammed Naser. 
+
+Welcome to my GitHub. 
 
 
 About me: 
