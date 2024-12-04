@@ -8,6 +8,6 @@ Leveraging my deep technical expertise, I work to integrate best practices in bo
 
 My Tech Stack: 
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,ts, html,css,cypress, aws, docker,java, spring, mysql,postgres,postman, ai)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,ts,html,css,cypress,aws,docker,java,spring,mysql,postgres,postman,ai)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+
