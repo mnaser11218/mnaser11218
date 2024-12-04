@@ -1,10 +1,6 @@
 ## Hi there 👋 My Name is Mohammed Naser. Welcome.
 
-<!--
-**mnaser11218/mnaser11218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
--->
 About me: 
 I am a results-driven Full-Stack Software Developer and QA Engineer with a strong foundation in both coding and quality assurance. Holding an M.A. in English Literature from Brooklyn College and with over six years of teaching experience, I bring a unique perspective to problem-solving and collaboration. I am a graduate of both ZipCode Wilmington and Tech Elevator, where I honed my skills in software development and quality assurance.
 
