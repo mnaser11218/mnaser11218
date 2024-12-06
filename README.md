@@ -12,12 +12,13 @@ I am a Full-Stack Software Developer and QA Engineer with a strong foundation in
 
 ## My Tech Stack: 
 
+
+
 <p align="center">
   <a href="https://www.linkedin.com/in/mohammed-naser123/">
     <img src="https://skillicons.dev/icons?i=js,react,ts,html,css,cypress,aws,docker,java,spring,mysql,postgres,postman,ai" />
   </a>
 </p>
-[![My Skills](https://skillicons.dev/icons?i=js,react,ts,html,css,cypress,aws,docker,java,spring,mysql,postgres,postman,ai)](https://skillicons.dev)
 
 
 ## Connect with me on LinkedIn: 
