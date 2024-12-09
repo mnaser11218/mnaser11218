@@ -16,7 +16,7 @@ I am a Full-Stack Software Developer and QA Engineer with a strong foundation in
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohammed-naser123/">
-    <img src="https://skillicons.dev/icons?i=js,react,ts,html,css,cypress,aws,docker,java,spring,mysql,postgres,postman,ai" />
+    <img src="https://skillicons.dev/icons?i=js,react,ts,html,css,cypress,aws,java,spring,mysql,postgres,postman,ai" />
   </a>
 </p>
 
